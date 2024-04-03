@@ -13,6 +13,6 @@
             "type": "http",
             "direction": "out"
         }
-    ]
-	"language": "dotnet-isolated"
+    ],
+    "language": "dotnet-isolated"
 }
